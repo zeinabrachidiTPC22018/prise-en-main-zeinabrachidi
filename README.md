@@ -53,3 +53,4 @@ Temps        | Sujet
 # Liens complémentaire
 
 [Sujets de la série des TP complète](http://opentraining.cofares.net/TP-GLG-Cnam-Liban/TP.html)
+[pour rejoindre le TP](https://classroom.github.com/a/kMJwyNv2)
